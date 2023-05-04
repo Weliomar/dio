@@ -1,19 +1,4 @@
-/*
-2) O IMC – Índice de Massa Corporal é um sugerido pela Organização Mundial de Saúde para dar uma indicação sobre a condição de peso de uma pessoa adulta. 
-
-Fórmula do IMC:
-IMC = peso / (altura * altura)
-
-Elabore um algoritmo que dado o peso e a altura de um adulto mostre sua condição de acordo com a tabela abaixo.
-
-IMC em adultos Condição:
-- Abaixo de 18,5 Abaixo do peso;
-- Entre 18,5 e 25 Pesos normais;
-- Entre 25 e 30 Acima do peso;
-- Entre 30 e 40 Obeso;
-- Acima de 40 Obsesidade Grave;
-*/
-
+// Exercicio numero 2 - Calculo do IMC 
 
 let peso = 64;
 let altura = 1.64;
