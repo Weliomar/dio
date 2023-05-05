@@ -1,4 +1,7 @@
+//
 
+
+//exemplos
 /*
 (function () {
    console.log(escreverNome());
