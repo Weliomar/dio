@@ -7,3 +7,4 @@
 * Map
 * Diferenças de "", '' e ``
 * Metodo constructor
+* Importação de um módulo / Conceito de destructuring 
